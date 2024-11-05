@@ -1,4 +1,7 @@
 # Project Title: ClimeCast
+<img width="934" alt="climecast - 1" src="https://github.com/user-attachments/assets/6372bbff-c77f-4822-8234-735c10fb742f">
+<img width="875" alt="climeCast-2" src="https://github.com/user-attachments/assets/f11305e4-1497-4eb2-92f4-27e225172098">
+
 
 ### Overview
 ClimeCast is a responsive website built with React, featuring smooth animations and a live counter displaying the number of users currently in touch with the service. It Also User Verification Through Email By using AWS SES. The backend, powered by AWS Lambda and API Gateway, is integrated to retrieve the item count from DynamoDB and store new entries, such as user emails.
